@@ -1,4 +1,5 @@
 print("Nurislam")
 print("Ruslan")
 print("Gulbarshyn")
-print("Bayan")
+print("Bayansulu")
+print("Zhansulu")
